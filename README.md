@@ -17,3 +17,7 @@
 每月消费金额             |  每月每餐消费金额          |     每月每餐消费时间
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/2018_consume_month.png) | ![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/2018_consume_dinner.png) | ![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/2018_time_month.png)
+
+每年消费金额             |  每月各个食堂消费金额
+:-------------------------:|:-------------------------:
+![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/2018_consume.png) | ![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/2018_consume_canteen.png)
