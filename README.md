@@ -1,2 +1,4 @@
 # 校园卡账单分析
-![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/201801_consume_dinner.png)![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/201801_consume.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/201801_consume_dinner.png) | ![](https://github.com/PanShi2016/Consumption_Analysis/blob/master/201801_consume.png)
