@@ -9,7 +9,6 @@ months_num = {'1';'2';'3';'4';'5';'6';'7';'8';'9';'10';'11';'12'};
 days = {'31';'Feb';'31';'30';'31';'30';'31';'31';'30';'31';'30';'31'};
 
 % labels for consumption patterns
-% labels_canteen = {'西一';'喻园';'集锦园';'东一';'学一';'东教工';'东园';'韵苑风味'}; % labels for canteen
 labels_canteen = {'西一';'喻园';'集锦园';'东一';'学一';'东教工';'东园';'韵苑风味'}; % labels for canteen
 labels_supmark = {'东学超市';'教工超市';'韵苑超市'}; % labels for supermarket
 labels_sports = {'主校区体育场馆'}; % labels for sports
