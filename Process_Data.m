@@ -1,7 +1,7 @@
 % process xls files
 
 % labels for each year
-years = {'2019'};
+years = {'2018'};
 
 % labels for each month
 months = {'01';'02';'03';'04';'05';'06';'07';'08';'09';'10';'11';'12'};
@@ -10,7 +10,7 @@ days = {'31';'Feb';'31';'30';'31';'30';'31';'31';'30';'31';'30';'31'};
 
 % labels for consumption patterns
 % labels_canteen = {'西一';'喻园';'集锦园';'东一';'学一';'东教工';'东园';'韵苑风味'}; % labels for canteen
-labels_canteen = {'西一';'喻园';'集锦园';'东一';'学一';'学二';'东教工';'东园';'韵苑风味';'百品屋';'百景';'集贤楼'}; % labels for canteen
+labels_canteen = {'西一';'喻园';'集锦园';'东一';'学一';'东教工';'东园';'韵苑风味'}; % labels for canteen
 labels_supmark = {'东学超市';'教工超市';'韵苑超市'}; % labels for supermarket
 labels_sports = {'主校区体育场馆'}; % labels for sports
 labels_others = {'博士生公寓';'自助售货机';'校医院';'充电桩'}; % labels for others
@@ -291,7 +291,7 @@ for y = 1 : length(years)
     end
     % Set colors
     colour = {[0.2 0.6 0.6],[0.2 0.4 0.7],[0.4 0.5 0.8],[0.6 0.8 0.6],...
-        [0.1 0.6 1],[0.3 0.6 0.8],[0.4 0.7 1],[0.3 0.5 0.7],[0.7 0.8 0.9]};
+        [0.1 0.6 1],[0.3 0.6 0.8],[0.4 0.7 1],[0.3 0.5 0.7]};
     for j = 1 : size(data,2)
         set(h(:,j),'facecolor',colour{j});
     end
